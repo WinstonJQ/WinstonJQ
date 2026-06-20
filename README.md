@@ -1,23 +1,17 @@
-## Winston JQ
+## Hi, I'm Winston JQ
 
-`research code → reproducible robot systems → open source`
+- I am a PhD student in robotics. During my undergraduate and master's studies, I received multiple awards in robotics competitions.
+- My research interests include **autonomous robotic exploration**, **vision-language navigation and vision-language-action models (VLN / VLA)**, and **reinforcement learning**. I am currently focusing on **embodied intelligence**.
+- I work primarily with **ROS, PX4, and Gazebo**, with an emphasis on porting research code to reproducible robotic systems.
+- I also explore multi-agent engineering workflows for turning learning and review processes into open-source resources.
 
-- I am a PhD student in robotics and received multiple awards in robotics competitions during my undergraduate and master's studies.
-- My research focuses on **autonomous robotic exploration**, **vision-language navigation and vision-language-action models (VLN / VLA)**, and **reinforcement learning**, with a current interest in **embodied intelligence**.
-- I port research code to reproducible **ROS / PX4 / Gazebo** systems and build **two-model generation–review pipelines** for open-source knowledge projects.
-
-## 中文
-
-`研究代码 → 可复现机器人系统 → 开源沉淀`
+## 你好，我是 Winston JQ
 
 - 我是一名机器人方向的博士生，本科和硕士期间曾获得多项机器人竞赛奖项。
 - 我的研究方向包括**机器人自主探索**、**视觉语言导航与视觉语言动作模型（VLN / VLA）**和**强化学习**，目前重点关注**具身智能**。
-- 我注重将研究代码迁移为可复现的 **ROS / PX4 / Gazebo** 系统，并使用**双模型生成—审查流水线**构建开源知识项目。
+- 我主要使用 **ROS、PX4 和 Gazebo**，注重将研究代码迁移为可复现、可运行的机器人系统。
+- 我也在探索多智能体工程工作流，并将学习与复盘过程沉淀为开源资源。
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WinstonJQ&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true&hide=prs,issues,contribs">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WinstonJQ&show_icons=true&theme=default&hide_rank=true&hide_border=true&hide=prs,issues,contribs">
-    <img width="360" src="https://github-readme-stats.vercel.app/api?username=WinstonJQ&show_icons=true&theme=default&hide_rank=true&hide_border=true&hide=prs,issues,contribs" alt="WinstonJQ's GitHub stats">
-  </picture>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WinstonJQ&show_icons=true&theme=transparent&hide_rank=true&hide_border=false&hide=prs,issues,contribs" alt="WinstonJQ's GitHub stats">
 </div>

@@ -13,5 +13,5 @@
 - 我也在探索多智能体工程工作流，并将学习与复盘过程沉淀为开源资源。
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WinstonJQ&show_icons=true&theme=transparent&hide_rank=true&hide_border=false" alt="WinstonJQ's GitHub stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WinstonJQ&show_icons=true&theme=transparent&hide_rank=true&hide_border=false&hide=prs,issues,contribs" alt="WinstonJQ's GitHub stats">
 </div>
